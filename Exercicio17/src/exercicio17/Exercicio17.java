@@ -26,7 +26,6 @@ public class Exercicio17 {
         }else{
         System.out.printf("Você tem %d anos, é um idoso\n", idade);
         }
-        
     }
     
 }
